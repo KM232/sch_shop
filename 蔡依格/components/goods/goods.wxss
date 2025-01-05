@@ -1,0 +1,44 @@
+.goods {
+  width: 100%;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+.goods .item {
+  width: 48%;
+  padding: 5px;
+  box-sizing: border-box;
+  float: left;
+  background: #fff;
+  margin: 2px 1%;
+}
+
+.goods .item .goods_iamge image {
+  width: 100%;
+}
+
+.goods .item .goods_info .goods_name {
+  font-size: 14px;
+  text-align: left;
+  line-height: 1.05rem;
+  height: 2.1rem;
+  font-family: -apple-system, Helvetica, sans-serif;
+  overflow: hidden;
+  color: #434343;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  word-break: break-all;
+}
+
+.goods .item .goods_info .goods_price {
+  font-style: normal;
+  font-family: JDZH-Regular, sans-serif;
+  display: inline-block;
+  font-size: 0.7rem;
+  line-height: 1.5rem;
+  color: #ff4142;
+}
+
+.goods .item .goods_info .goods_price text{
+  font-size: 1rem;
+}
