@@ -1,0 +1,12 @@
+.header{
+  padding: 20px;
+  overflow: hidden;
+  clear: both;
+  background-color: #fff;
+}
+
+.header image{
+  width: 70px;
+  border-radius: 50%;
+  float: left;
+}
