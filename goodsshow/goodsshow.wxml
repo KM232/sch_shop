@@ -1,0 +1,2 @@
+<!--pages/goodsshow/goodsshow.wxml-->
+<goods goodsData="{{goodsData}}"></goods>
